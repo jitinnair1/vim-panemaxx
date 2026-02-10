@@ -27,6 +27,6 @@ This modifications made in this fork are:
 - Fixed compatibilty with later versions of vim (from 7.1 to 9.1+)
 - Rename command
 - Add a new default keybind `<Leader>z` with fallback to the earlier default`<F3>`
-- Removed the forced layout operation (using `!`)
+- Removed the forced layout operation
 
 It is licensed under the same terms as Vim itself
