@@ -1,7 +1,7 @@
 vim-panemaxx
 =============
 
-my fork of [`vim-maximixer`](https://github.com/szw/vim-maximizer)
+my fork of [`vim-maximizer`](https://github.com/szw/vim-maximizer)
 
 Please refer to the original project for details.
 
@@ -9,7 +9,7 @@ Please refer to the original project for details.
 Usage
 -----
 
-Maximizer has only one command:
+Toggle pane maximisation with:
 
     :PaneMaxx
 
@@ -24,8 +24,8 @@ Maximizer was written by Szymon Wrozynski and
 
 This modifications made in this fork are:
 - Fixed compatibilty with later versions of vim (from 7.1 to 9.1+)
-- Rename commands
-- Add a new default keybind with fallback to the earlier `<F3>`
+- Rename command
+- Add a new default keybind `<Leader>z` with fallback to the earlier default`<F3>`
 - Removed the forced layout operation (using `!`)
 
-It is licensed under the same terms as Vim itself.
+It is licensed under the same terms as Vim itself
