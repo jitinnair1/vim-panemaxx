@@ -5,6 +5,7 @@ my fork of [`vim-maximizer`](https://github.com/szw/vim-maximizer)
 
 Please refer to the original project for details.
 
+<a href="https://asciinema.org/a/t7lt8zs6IkdHHmmg" target="_blank"><img src="https://asciinema.org/a/t7lt8zs6IkdHHmmg.svg" /></a>
 
 Usage
 -----
